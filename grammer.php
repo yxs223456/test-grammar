@@ -6,4 +6,4 @@
  * Time: 14:49
  */
 
-var_dump(date('i'));
+var_dump(date('ih'));
